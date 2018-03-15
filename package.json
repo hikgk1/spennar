@@ -1,0 +1,19 @@
+{
+  "name": "spennar",
+  "version": "0.0.1",
+  "description": "Aflspennagagnagrunnur",
+  "main": "init.js",
+  "scripts": {
+    "start": "node init.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kristófer",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.13.0",
+    "mongodb": "^3.0.2"
+  }
+}
